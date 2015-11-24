@@ -1,2 +1,2 @@
 # Toast
-Imitate Android's toast in iOS.
+A Simple iOS widget, imitate Android's toast.
